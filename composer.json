@@ -11,7 +11,7 @@
     ],
     "require": {
         "laravel/framework": "5.5.*",
-        "kahlan/kahlan": "^4.*",
+        "kahlan/kahlan": "^4.0.*",
         "phpunit/phpunit" : "~6.0"
     },
     "autoload": {
